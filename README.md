@@ -1,0 +1,2 @@
+# NetCoreAngularApp
+NetCoreAngularApp
